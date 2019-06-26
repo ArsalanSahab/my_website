@@ -1,0 +1,17 @@
+{
+  "name": "Resume_active",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://arsalansahab.github.io/my_website",
+  "license": "ISC"
+}
